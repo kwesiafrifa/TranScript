@@ -14,5 +14,4 @@ Areas in code where filenames are referenced (in case further testing needs to b
 
 
 Sample Student Data
-1. Efia Awuah (expected output)
-2. Selasi Mensah (for boundary cases)
+[redacted]
